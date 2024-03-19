@@ -1,7 +1,9 @@
+<div align="center">
 ### Hi there 👋
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=Ercnard)](https://solved.ac/Ercnard)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erc-nard&layout=compact&theme=dracula)
+</div>
 <!--
 **Erc-nard/Erc-nard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

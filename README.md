@@ -1,10 +1,10 @@
 
 <div align="center">
 <h1>하이룽 방가방가</h1>
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{Erc-nard}?contribution-view=false" width="500" height="120" />
-</a>
-  
+
+[![15dfa8089554af7b4](https://github.com/Erc-nard/Erc-nard/assets/100018037/6bb55420-2339-47a8-9e92-e99d09f62b9e)](https://erc-nard.tistory.com/)
+<p>▲클릭하면 어딘가로 이동합니다.</p>
+
 [![solved.ac](https://solvedac-cards-starcea.paring.moe/profile/ercnard?size=200px)](https://solved.ac/profile/ercnard)
 
 </div>

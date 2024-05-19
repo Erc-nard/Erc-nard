@@ -5,7 +5,7 @@
   <img src="https://render.gitanimals.org/lines/{Erc-nard}?contribution-view=false" width="500" height="120" />
 </a>
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=Ercnard)](https://solved.ac/ercnard)
+[![solved.ac](https://solvedac-cards-starcea.paring.moe/profile/ercnard?size=200px)](https://solved.ac/profile/ercnard)
 
 </div>
 <!--

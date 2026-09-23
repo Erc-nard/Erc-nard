@@ -8,17 +8,27 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ercnard)](https://solved.ac/ercnard/)
 
 </div>
-<!--
-**Erc-nard/Erc-nard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+## Experiences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Period            | Details                                                       |
+| ----------------- | ------------------------------------------------------------- |
+| 2026.07 - 2026.12      | (주)에스앤씨랩 접근성 부서 인턴                                            |
+| 2026.07           | SKYSH 해커톤 은상 ([GitHub](https://github.com/Erc-nard/SKYHS_v2)) |
+| 2025.12 - 2026.02 | KAIST 몰입캠프                                                 |
+| 2025.09           | 한양대학교 ALOHA 단풍컵 Div.3 팀 1위                                    |
+| 2024.07           | 동덕여자대학교 성적우수상 A                                               |
+| 2023.12           | 동덕여자대학교 성적우수상 B                                               |
+
+<br/>
+
+| Certification | Details |
+| ------------- | ------- |
+| OPIc          | IH      |
+| JLPT          | N3      |
+| 컴퓨터활용능력       | 2급      |
+| GTQ           | 1급      |
+
+
+
